@@ -1,4 +1,4 @@
-# Confidence Huang
+# Jiayu Huang
 
 <p align="center">
   证据优先的系统 · Agent 技能 · 实用工作流软件
